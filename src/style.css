@@ -1,0 +1,13 @@
+body{
+    font-family: nastaligh;
+    background-image: url(../image/DALL·E\ 2025-01-20\ 18.04.00\ -\ A\ serene\ and\ spiritual\ Islamic-themed\ background\ image.\ The\ design\ features\ a\ beautifully\ detailed\ Tasbih\ \(prayer\ beads\)\ and\ an\ open\ Quran\ with\ ornate.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;   
+    background-color: #0000003a; 
+    background-blend-mode: multiply;
+    z-index: 1;
+}
+@font-face {
+    font-family: nastaligh;
+    src: url(../font/IranNastaliq.ttf);
+}
